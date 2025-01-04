@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: dylan.s.young@uconn.edu
-- 💬 Ask me about: Macroeconomics & DeFi
 - 📹 Favorite Video: [Make It Count](https://www.youtube.com/watch?v=WxfZkMm3wcg&t=77s&ab_channel=CaseyNeistat)
-- :musical_note: Favorite Song: [I Wonder - Kanye West](https://www.youtube.com/watch?v=MxEjnYdfLXU&ab_channel=KanyeWest-Topic)
+- 🌱 I’m currently learning: DeFi  
 
 
 <!--
